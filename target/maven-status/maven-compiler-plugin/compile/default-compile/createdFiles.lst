@@ -1,0 +1,8 @@
+mate\academy\springdemo\service\UserService.class
+mate\academy\springdemo\config\Config.class
+mate\academy\springdemo\model\Person.class
+mate\academy\springdemo\dao\PersonDaoImpl.class
+mate\academy\springdemo\service\UserServiceImpl.class
+mate\academy\springdemo\dao\PersonDao.class
+mate\academy\springdemo\model\PersonMapper.class
+mate\academy\springdemo\Main.class
