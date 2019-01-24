@@ -1,7 +1,8 @@
-package mate.academy.springdemo.service;
+package mate.academy.springdemo.service.impl;
 
 import mate.academy.springdemo.model.Developer;
 import mate.academy.springdemo.repository.DeveloperRepository;
+import mate.academy.springdemo.service.DeveloperService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
